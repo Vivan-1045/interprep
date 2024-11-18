@@ -49,7 +49,7 @@ const Header = () => {
             className="text-2xl focus:outline-none"
             onClick={togglenavbar}
           >
-            <span className="material-icons text-3xl font-extrabold">=</span>
+            <span className="material-icons text-6xl font-extrabold">=</span>
           </button>
         </div>
       </div>
